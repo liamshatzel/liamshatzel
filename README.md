@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/-linkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fliam-shatzel%2F)
-![Static Badge](https://img.shields.io/badge/-website-green?link=http%3A%2F%2Fliamshatzel.com%2F)
+[![Static Badge](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/liam-shatzel/)
+[![Static Badge](https://img.shields.io/badge/-website-green)](https://liamshatzel.com/)
