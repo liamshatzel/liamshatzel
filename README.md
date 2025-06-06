@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Liam
 #### I'm currently studying computer science at UVic 🏫
 <p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamshatzel&hide=html&hide_border=false&layout=compact&langs_count=10&theme=dark" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamshatzel&hide=html&hide_border=false&layout=compact&langs_count=6&theme=dark" />
 </p>
 <!--
 **liamshatzel/liamshatzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
