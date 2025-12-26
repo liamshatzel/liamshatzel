@@ -1,9 +1,16 @@
-### Hi there 👋 I'm Liam
-#### I'm currently studying computer science at UVic 
+### Hi, I’m Liam
+
+Current MSc Computer Science at the University of Victoria.
+Interested in computer graphics, machine learning, and spatial computing.
+
+Previously worked on crowd simulations (GAIDG Lab).  
+Currently developing immersive AR/VR applications (VIXI Lab).
+![Static Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fliam-shatzel%2F)
+![Static Badge](https://img.shields.io/badge/-website-green?logo=linkedin&logoColor=blue&link=https%3A%2F%2Fliamshatzel.com%2F)
+
 <!--
 **liamshatzel/liamshatzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Static Badge](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/liam-shatzel/)
-[![Static Badge](https://img.shields.io/badge/-website-green)](https://liamshatzel.com/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
