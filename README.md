@@ -1,9 +1,12 @@
 ### Hi, I’m Liam 👋
 
 Current MSc Computer Science at the University of Victoria.
+
 Interested in computer graphics, machine learning, and spatial computing.
 
+
 Previously worked on crowd simulations (GAIDG Lab).  
+
 Currently developing immersive AR/VR applications (VIXI Lab).
 
 
