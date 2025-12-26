@@ -1,13 +1,13 @@
 ### Hi, I’m Liam 👋
 
-Current MSc Computer Science at the University of Victoria.
+Current MSc Computer Science at the University of Victoria. 
 
 Interested in computer graphics, machine learning, and spatial computing.
 
 
-Previously worked on crowd simulations (GAIDG Lab).  
+- Previously worked on crowd simulations (GAIDG Lab).  
 
-Currently developing immersive AR/VR applications (VIXI Lab).
+- Currently developing immersive AR/VR applications (VIXI Lab).
 
 
 ![Static Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fliam-shatzel%2F)
