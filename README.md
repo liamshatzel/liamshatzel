@@ -2,7 +2,7 @@
 
 Current MSc Computer Science at the University of Victoria. 
 
-Interested in computer graphics, machine learning, and spatial computing.
+Interested in HCI, computer graphics, machine learning, and spatial computing.
 
 
 - Previously worked on crowd simulations (GAIDG Lab).  
